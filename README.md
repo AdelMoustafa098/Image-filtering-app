@@ -28,71 +28,71 @@ This project consists of 3 modules:
 
 - Salt and Pepper noise and (5x5) Gaussian filter
 
-  ![](Result_images\1.png)
+  ![](Result_images/1.png)
 
 - Salt and Pepper noise and (5x5) Average filter
 
-  ![](Result_images\2.png)
+  ![](Result_images/2.png)
 
 - Salt and Pepper noise and (3x3) Median filter
 
-  ![](Result_images\3.png)
+  ![](Result_images/3.png)
 
 - Gaussian noise and (5x5) Average filter
 
-  ![](Result_images\4.png)
+  ![](Result_images/4.png)
 
 - Gaussian noise and (5x5) Gaussian filter
 
-  ![](Result_images\5.png)
+  ![](Result_images/5.png)
 
 - Gaussian noise and (3x3) Median filter
 
-  ![](Result_images\6.png)
+  ![](Result_images/6.png)
 
 - Uniform noise and (5x5) Average filter
 
-  ![](Result_images\7.png)
+  ![](Result_images/7.png)
 
 - Uniform noise and (5x5) Gaussian filter
 
-  ![](Result_images\8.png)
+  ![](Result_images/8.png)
 
 - Uniform noise and (5x5) Median filter
 
-  ![](Result_images\9.png)
+  ![](Result_images/9.png)
 
 - Sobel edge detection
 
-  ![ ](Result_images\10.png)
+  ![ ](Result_images/10.png)
 
 - Roberts edge detection
 
-  ![](Result_images\11.png)
+  ![](Result_images/11.png)
 
 - Prewitt edge detection
 
-  ![](Result_images\12.png)
+  ![](Result_images/12.png)
 
 - Canny edge detection
 
-  ![](Result_images\13.png)
+  ![](Result_images/13.png)
 
 - Convert Image to grayscale and show grayscale Histogram
 
-  ![](Result_images\14.png)
+  ![](Result_images/14.png)
 
 - RGB Histogram
 
-  ![](Result_images\15.png)
+  ![](Result_images/15.png)
 
 - Image Equalization
 
-  ![](Result_images\16.png)
+  ![](Result_images/16.png)
 
 - Image Normalization
 
-  ![](Result_images\17.png)
+  ![](Result_images/17.png)
 
 - Hybrid Image
 
@@ -100,27 +100,27 @@ This project consists of 3 modules:
 
   ○   Laplacian filter for the second input
 
-  ![](Result_images\18.png)
+  ![](Result_images/18.png)
 
 - Frequency domain filter (Low pass filter)
 
-  ![](Result_images\19.PNG)
+  ![](Result_images/19.PNG)
 
 - 20- Frequency domain filter (High pass filter)
 
-  ![](Result_images\20.png)
+  ![](Result_images/20.png)
 
 - Global threshold
 
-  ![](Result_images\21.jpeg)
+  ![](Result_images/21.jpeg)
 
 - Local threshold
 
-  ![](Result_images\22.jpeg)
+  ![](Result_images/22.jpeg)
 
 - Global threshold doesn't usually show good outputs compared to local threshold
 
-  ![](Result_images\23.jpeg)
+  ![](Result_images/23.jpeg)
 
   
 
